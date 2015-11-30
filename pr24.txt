@@ -2,3 +2,22 @@
 js - lesson 3
 
  colopicker
+
+
+js - lesson 4
+
+"an images"
+
+"back a response" no full stop
+
+"As part of the response, a request gives back a status code" - rephrase
+
+"did no understand"
+
+"open() method specified" - want present tense
+
+
+
+
+
+

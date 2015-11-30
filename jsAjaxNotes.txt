@@ -1,0 +1,60 @@
+before we start
+
+is git stuff confusing for some students?
+
+http verbs
+
+"are actions performed" - not necessarily the case. more of a guide, good practice, etc. other coaches have suggestions, or think this is ok?
+
+get and post are most commonly used, the others much less, despite what we might wish for. again, a bit misleading?
+
+
+I've never been convinced by starting with the xhr object rather than jquery. it is harder to do and looks less like many common frameworks than the jquery code does.
+
+
+"always use async" - does this example? In getting started, we say to make it synchronous! We could say something about production code, 90% of the time, though.
+
+!! downloaded code refers to jquery that isn't in gist. Let's mention this so things go smoothly later.
+
+DEFINITE
+
+show xhr & json parse code after have downloaded exercise files. otherwise both student and coach scroll up and down working what tutorial means
+
+"here is a partial response to get you started" - student may not have seen a response like this and they need more guidance. "started" doing what ? Let's have a nice, clear, goal for the student, e.g. show user's avatar, location.
+
+"after parsing the response ..." - let's put this nearer the point where they type some code
+
+Getting Started
+cf notes about about showing detailed code here
+
+!!  set it to synchronous - or don't !! let's just give
+clear, definite, guidance at this point, plus some idea why and what might come later.
+
+what's a "readyState of the request"? is the student ready for all these concepts, right at the start?
+
+!! we could make a nice bonus section from this, though.
+And it's a good link page, a nice clear example, better than this one found using google - https://developer.mozilla.org/en/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+
+handling a successful req
+
+it never seems clear what kind of object the user param refers to. coach and student have to read up and down to work this out.
+
+maybe the answer is simply to call param userInfo and specify to pass all responsetext along.
+
+publish to gh
+!! before this, let's have a "well done, you've fisnished".
+
+bonus section using async and readystate?
+
+
+?? is the gh stuff helpful, what do others think?
+
+
+
+rq using jquery - I'm keen to put this in section 2, as it's never clear what example it belongs to
+
+
+
+
+
+
